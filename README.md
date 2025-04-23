@@ -1,1 +1,1 @@
-Fiz esse projeto para praticar um pouco mais de lógica de programação utilizando IF e ELSE IF
+Fiz esse projeto para praticar um pouco mais de lógica de programação utilizando  Declaração e Inicialização de Variáveis, Estruturas de Decisão (if/else if/else), Atribuição de Valores, Concatenação de Strings, exibiição de Dados (console.log) e Operadores de Comparação
